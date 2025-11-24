@@ -19,3 +19,4 @@ To enable ads in your application, follow these steps:
    - Run the app locally.
    - Note that ads might not show up immediately on localhost or until your domain is approved by AdSense.
  
+google.com, pub-9120924315579846, DIRECT, f08c47fec0942fa0
